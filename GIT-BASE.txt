@@ -1,0 +1,49 @@
+Baixe o git 
+
+	https://git-scm.com
+
+
+logue no gitHub
+
+	https://github.com/dashboard	
+
+definir seu nome no cmd
+
+	git config --global user.name "pedrosavio99"
+
+configurar o email
+
+	git config --global user.email "pedrosavio99"
+
+vai na pasta do seu proejto e clica com o botao dirieto do mause em
+
+	abrir gitbashe aqui
+
+iniciar o reposit´rorio
+
+	git init
+
+ver quais arquivos n foram comitados 
+
+	git status
+
+
+incluir todos os arquivos no commit
+
+	git add .
+
+criar o commit
+
+	git commit -m "primeiro commit"
+
+
+crie um repositorio pro seu projeto no gitHub e copie essa parte de seu projeto criado
+
+	…or push an existing repository from the command line
+	   git remote add origin https://github.com/pedrosavio99/ListaReact.git
+	   git branch -M main
+	   git push -u origin main
+
+
+
+

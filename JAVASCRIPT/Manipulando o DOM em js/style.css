@@ -1,0 +1,41 @@
+
+body{
+    background-color: rgb(206, 216, 216);
+}
+main{
+    align-items: center;
+    text-align: center;
+    margin-top: 17%;
+}
+
+footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 40px;
+    background-color: rgb(15, 15, 15);
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+#mode-seletor{
+    color: rgb(253, 253, 253);
+    background-color: rgb(5, 5, 5);
+    border-radius: 50px;
+    width: 220px;
+    height: 45px;
+    font-size: 25px;
+    
+}
+
+#mode-seletor:hover{
+    color: rgb(5, 5, 5);
+    background-color: rgb(206, 216, 216);
+}
+
+.dark-mode{
+    color: rgb(206, 216, 216);
+    background-color: rgb(5, 5, 5);
+}

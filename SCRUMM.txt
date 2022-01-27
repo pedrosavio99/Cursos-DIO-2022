@@ -1,0 +1,55 @@
+scrum é um framework(estrutura pra resolver um problema)
+
+varias pequenas entregas em algumas semanas de partes do todo(splint)
+
+tia do scrum( transparencia, inspeção e adaptação)
+
+Product backlog =( lista de funções do novo projeto)
+
+
+sprintPlaning( reunião pra mostrar os pedaços do projeto)
+
+sprintbacklog = uma parte do product backlogS
+
+desenvolvimento de cada parte pra cada dev
+
+dailyScrum = revisão pra ver como vai o desenvolvimento(time trabalhando dayle)
+
+sprintreview = possiveis modificações nos sprints apresentados
+
+esses sprints são pedaçõs do backlog porem n sao partes sem valor(tipo um codigo sem função) vc precisa entregar um codigo simples que apresente sua parte e queseja funcional, tipo fazer um carro vc n entrega uma roda, vc entrega um skate, que é simples mas tem um valor funcional com o codigo que vc fez no caso a roda
+
+
+PAPEIS,ARTEFATOS E CERIMÔNIAS
+====================
+papeis:(integrantes pessoas)
+
+product Owner : dono do projeto que mostra como é o aplicativo que vc quer, é o car dos negocios,
+
+scrum master: o cara que ajuda o tempo todo as pessoas que tão desenvolvendo
+
+scrum Time : os time de backand e frontend, os desenvolvedores
+tire suas duvidas conversem entre si se ajudem!!
+time de 9 pesoas pra baixo pra ficarem entrosadas
+espirito de mosqueteiro 1 por todos e todos por 1 pois as entregas são uma parte do todo
+
+
+======================
+
+Cerimônias :( reunioes da galera pra discutir o desenvolvimento )
+
+planejamento da sprint:
+o po traz os requisitos do projeto e em ordem de importancia(o product backlog) e o time faz as sprint backlogs(partes que cada um vai fazer em cada semana ou intervalo entre as sprints) com isso criamos uma meta pra cada sprint e falamos sobre ela na revisao da sprint no final do perido estipulado!
+cada sprint e atividades pra cada dev precisa ter cirterios de aceitação( tipo um login pra poder se entrgeue esse loginprecisa de um email e uma senha com numero e se n der pra logar o usario pode alterar a senha)
+
+reunioes diaris 15-30 min(oq eu fiz ontem, oq farei hj e se encontrei algum obstaculo) o time precisa se ajudar caso encontre alhum problema, pois lembra do espirito de mosquetewiro.
+todo do time vao apresentando suas atualizações(de forma muito objetiva!!) pro scrum master
+
+revisao da sprint: todo o time se reune pra mostrar os resultados e ver se bate com o que o po queria, em uma sprint review, mostre as sprint anteriores e a atual, pra mostrar como ta fluindo
+
+retrospectiva da sprint
+
+========================
+
+
+
